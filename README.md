@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 Here's a lil bit about me:
 
-- 🌱 I’m currently learning Python and JavaScript.
-- 📫 How to reach me: @lukesoffline on Twitter
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Microsoft attempted to buy Nintendo when it was making the Xbox, but the Japanese company “laughed their asses off”.
+- C# and PHP developer
+- How to reach me: @lukesoffline on Twitter
+- Pronouns: He/Him
+- Fun fact: Microsoft attempted to buy Nintendo when it was making the Xbox, but the Japanese company “laughed their asses off”.
 
 [![Lukes's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukesOffline&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
